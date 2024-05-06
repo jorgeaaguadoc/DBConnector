@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnector", "DBConnector\DBConnector.csproj", "{ECBF15D1-E4DA-4778-8885-AE84100AB96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLConnector", "SQLConnector\SQLConnector.csproj", "{E37CD7AB-1F50-471D-AAE3-73C91FBB70CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBF15D1-E4DA-4778-8885-AE84100AB96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBF15D1-E4DA-4778-8885-AE84100AB96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBF15D1-E4DA-4778-8885-AE84100AB96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBF15D1-E4DA-4778-8885-AE84100AB96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37CD7AB-1F50-471D-AAE3-73C91FBB70CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37CD7AB-1F50-471D-AAE3-73C91FBB70CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37CD7AB-1F50-471D-AAE3-73C91FBB70CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37CD7AB-1F50-471D-AAE3-73C91FBB70CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CFEC7D-C706-4589-A783-042C452BB91E}
+	EndGlobalSection
+EndGlobal
